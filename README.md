@@ -11,7 +11,7 @@ Working on **Laravel** project.
 ### 🔗 Projects:  
 
 Check out all my projects here: [Elafifi youssef](https://github.com/Elafifiyoussef)  
-Latest project: [MedNova](https://github.com/Elafifiyoussef/medicalOffice) — A brief description of what it does.
+Latest project: [MedNova](https://github.com/Elafifiyoussef/medicalOffice) — Medical office management app
 
 ### 📬 How to Reach Me:
 
