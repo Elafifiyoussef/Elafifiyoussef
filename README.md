@@ -6,7 +6,7 @@ I believe that blending creativity and technical expertise leads to solutions th
 My goal is to build a bridge between these areas, bringing them together in exciting and transformative ways.
 
 ### 🌱 Currently Learning:  
-Exploring **Java** to deepen my understanding of object-oriented programming, data structures, and backend development.
+Working on **Laravel** project.
 
 ### 🔗 Projects:  
 
